@@ -1,6 +1,9 @@
 # OpenCV data Capture
 
-Here is a google drive link to the file that is used to capture the training data with all the imports
+Here is a google drive link to the file that is used to capture the training data
+
+(All the imports necessary are available inside the venv folder, that can be directly used after downloading the folder and creating a project with it in pycharm) 
+
 https://drive.google.com/drive/folders/15uRmmJUL2BkPbSZfrd3AN7HrAt-tBcPj?usp=sharing
 
 # File Description
