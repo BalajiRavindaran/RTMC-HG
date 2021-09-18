@@ -1,6 +1,9 @@
 # CollabMFO Final
 
-Here is a google drive link to the complete project file with all the imports
+Here is a google drive link to the folder that is a collaboration between all the components (Final Project)
+
+(All the imports necessary are available inside the venv folder, that can be directly used after downloading the folder and creating a project with it in pycharm)
+
 https://drive.google.com/drive/folders/1infn9AKiAF-LW6Pvryp9AV5OA7gMbxW4?usp=sharing
 
 # File Description
