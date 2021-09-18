@@ -1,4 +1,4 @@
-General Instructions :
+# General Instructions :
            1. Initially, the START, AUTOMATE(prev.), INSIGHT, STOP buttons work.
            2. The START button starts a new process by clearing the previous
            log.csv proceeding to start the live data capture and prediction while
@@ -12,7 +12,7 @@ General Instructions :
            5. The STOP button stops any process that is happening and closes
            the window.
 
-Constraints and Specifics :
+# Constraints and Specifics :
            1. The AUTOMATE button works only after the START button is pressed,
            and the AUTOMATE button loops through the data that is already predicted
            meanwhile uploading it to the online database system in intervals of 1
