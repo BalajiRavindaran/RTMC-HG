@@ -1,6 +1,9 @@
 # Keras h5 model Prediction
 
-Here is a google drive link to the file that is used to test the model that is been trained 
+Here is a google drive link to the file that is used to test the model that is been trained
+
+(All the imports necessary are available inside the venv folder, that can be directly used after downloading the folder and creating a project with it in pycharm)
+
 https://drive.google.com/drive/folders/1Nc7HLQrKUTAILcknWMl_PRk7xTxt6yCP?usp=sharing
 
 # File Description
