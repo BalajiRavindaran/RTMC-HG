@@ -27,4 +27,4 @@ The Data folder contains 30,000 images that are used for training the model and 
 18 Hand_Open<br />
 19 Partial<br />
 
-Each class contains 1500 images respectively.
+Each class is divided into two batches, each batch contains 750 images each, hence one class (ie batch 1 and batch 2) contains 1500 images respectively.
