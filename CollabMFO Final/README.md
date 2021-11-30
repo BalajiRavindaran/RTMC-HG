@@ -2,6 +2,8 @@
 
 Here is a google drive link to the folder that is a collaboration between all the components (Final Project)
 
+-- Additional RTMC-HG_V2.exe is present as a standalone application (Downloading and Installing it is sufficient, Python or any other imports are not necessary to be installed separately.)
+
 (All the imports necessary are available inside the venv folder, that can be directly used after downloading the folder and creating a project with it in pycharm)
 
 https://drive.google.com/drive/folders/1infn9AKiAF-LW6Pvryp9AV5OA7gMbxW4?usp=sharing
